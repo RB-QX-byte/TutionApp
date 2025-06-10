@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "YOUR_PROJECT_NUMBER",
-    "project_id": "your-tuition-app",
-    "storage_bucket": "your-tuition-app.appspot.com"
+    "project_number": "977368060916",
+    "project_id": "tutionapp-5f37f",
+    "storage_bucket": "tutionapp-5f37f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "YOUR_MOBILE_SDK_APP_ID",
+        "mobilesdk_app_id": "1:977368060916:android:4491dba58dccdc6c189fa1",
         "android_client_info": {
           "package_name": "com.tutionapp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "YOUR_CLIENT_ID",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "YOUR_API_KEY"
+          "current_key": "AIzaSyCiZJcOa2PLChQon_3BJwEA2C8Ie2IDpp0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "YOUR_CLIENT_ID",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
